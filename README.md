@@ -7,13 +7,13 @@ This is my third project for Treehouse Techdegree: Front End Developer. Here are
 Notes n' Tweaks
 
 - Transitions added for focus states and radio buttons.
-- Added another dropdown and another set of radio buttons. Made the form float to 2 columns in largest screen size.
+- Added another dropdown and another set of radio buttons to make form have more options. Made the form float to 2   columns in largest screen size.
 - Added media queries so the flow is: smaller phones -> larger phones/small tablets -> larger tablets/laptops ->     larger desktops.
 - Biggest challenge I gave myself was to match the custom dropdwon arrow/checkboxes/radio buttons in the mockup as   closely as possible. This took a lot of time to research as well as trial and error testing on CodePen.
     - Custom Checkboxes: Happy with my solution for the most part, could not be animated tho. I think this is due        to using Font Awesome with the "content" pseudo-element. I did learn a couple different ways I might execute       this differently, and put animated checkboxes on my future "to try again" list.
     - Custom Radio Buttons: Again, very fiddly but happy with the solution I found. Lining them up so they don't         shift visibly was the most difficult part, not sure it's perfect but good enough I think.
     - Custom Dropdown arrow: Figured out an initial but less than optimal solution that used pointerevents: none,        but it wouldn't pass CSS validation, so I went back to research and ended up with a simpler solution.
-- Design: Sticking to simple color schemes and styles for now. First attempt to use a background image, I think it   worked out ok. Google font added.
+- Design: Sticking to simple color schemes and styles for now. First attempt to use a background image, I think it   worked out ok. My choice of Google font added.
 
 Needs Work
 
