@@ -24,4 +24,4 @@ Needs Work
 
 -MM
 
-A questo link (https://goo.gl/z8zoi9) il risultato del mio progetto/form analogo. 
+A questo link (https://goo.gl/z8zoi9) il risultato del mio progetto/form analogo, oppure quì (https://codepen.io/massimin74/full/GmRoBw) il progetto Sign Up per il Daily UI - 001 (costruito su un modello di base da un corso di Treehouse).
