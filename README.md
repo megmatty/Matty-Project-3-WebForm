@@ -23,3 +23,5 @@ Needs Work
 ~Time to complete (10 days; week 1 - basic layout & research for custom form elements; week 2 - design elements, adding exceeds criterion, linting/refactoring)
 
 -MM
+
+A questo link (https://goo.gl/z8zoi9) il risultato del mio progetto/form analogo, oppure quì (https://codepen.io/massimin74/full/GmRoBw) il progetto Sign Up per il Daily UI - 001 (costruito su un modello di base da un corso di Treehouse).
